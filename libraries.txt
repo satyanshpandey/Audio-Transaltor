@@ -1,0 +1,6 @@
+pip install SpeechRecognition
+pip install PyAudio
+pip install SpeechRecognition
+pip install playsound==1.2.2
+pip install pydub googletrans==4.0.0-rc1 gtts playsound SpeechRecognition
+pip install googletrans==3.1.0a0
