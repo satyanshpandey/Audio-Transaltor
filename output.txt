@@ -1,0 +1,82 @@
+1
+2
+16000
+6672800
+
+
+Recognized text:  hello class in this session we are going to discuss about one very important concept of Java programming that is function 
+also known as what methods now methods basically divide the entire code into small individual units there are two types of methods inbuilt
+methods and the user defined method inbuilt methods are the method which are given by the people who have created Java that is their part of
+the language like printer power sqrt length carrot functions but in this module we are going to discuss about the user defined methods now first
+of all we should be knowing how to write a method to write a method the first part is a specified then we have modify return data type function name
+parameter list and then comes the body the first line of this particular definition this entire definition this is known as what prototype of the function
+there after comes the signature signature is part of prototype over here and this entire thing that we have written over here this and that is the
+prototype along with the body will be known as function definition over here can be of various types these access specifier can be public private protected 
+these three are what keywords but if none of the keyword is specified then excess is default or friendly neither default or friendly is a Keyword over
+here now when I talk about the public access specifier it means that whatever is declared in the class is available to the classes within the package or 
+outside the package private means it will be available only to the class in which it is define not to the classes within the package or outside the package 
+protected available to the class in which it is declared and the immediate supply within the package or outside the passage and last comes the fault of
+friendly so if none of the access specifier is specified then the axis is default meaning available to the class at which it is declared and all the class
+only within the package not outside the package so this is the these are the access specifier now if I am saying that private is available only to the class
+in which it is declared and not to the class is so is a condition if there is a requirement where we want the private variable declared in the one class to 
+be accessed by another class so in that scenario we have something that are known as successor or get a method or the mutator or setter method so let's quickly
+looked at these things so we have the classes begin I have a variable over here in TX which excess is what private and I have a public variable public and 
+now when I have another class this is class in this class child if I have a function public void show if I write SOP 11 M the value of M will be printed but 
+if I write SOP and X it will not be printed but what is if I want to get the value of x over here so I make a function public public public public public data
+type in this I simply write return X so now when over here I write sopln get X function this function will transfer the control over here I can access the function
+because it is what public in nature and IT returns the value of a private variable x now private variable X value is being faced can be fed by this particular function 
+because it is part of the class parent and but it is being called from which function from the child function by the name get expansion which is public in nature so the
+child function can access public function but it cannot access a private variable so indirectly I getting the value of x similarly supposedly in parent function this
+is what known as constructor we have set the value of x as 20 now I want to change the value of x through the child class how do I do that I just write public white 
+set x and I am getting in TRS parameter and here I say X equal to X + are not try to understand when I first time when I say sopl and get takes the value printed would 
+be what 20 after this I am calling the function settings
+
+
+
+
+Translated text (Hindi):  हेलो क्लास इस सत्र में हम जावा प्रोग्रामिंग की एक बहुत महत्वपूर्ण अवधारणा के बारे में चर्चा करने जा रहे हैं, जो कि फ़ंक्शन के रूप म
+ें                             भी जाना जाता है, यह भी जाना जाता है कि क्या तरीके अब विधियाँ मूल रूप से पूरे कोड को छोटे व्यक्तिगत इकाइयों में विभाजित करती हैं, दो प्रकार के तरीके इनबिल्ट तरीक
+के हैं और उपयोगकर्ता परिभाषित विधि इनबिल्ट तरीके वह विधि है जो उन लोगों द्वारा दी गई हैं जिन्होंने जावा बनाया है जो कि प्रिंटर पावर SQRT लंबाई गाजर कार्यों की तर                   रह उनकी भाषा का 
+हिस्सा है, लेकिन इस मॉड्यूल में हम उपयोगकर्ता परिभाषित तरीकों के बारे में चर्चा करने जा रहे हैं। यह जानने के लिए कि एक विधि लिखने के लिए कैसे लिख                       खना है पहला भाग एक निर्दिष्ट 
+है तो हमने रिटर्न डेटा टाइप फ़ंक्शन नाम पैरामीटर सूची को संशोधित किया है और फिर शरीर को इस विशेष परिभाषा की पहली पंक्ति आता है। वहाँ                   कार्य आने के बाद हस्ताक्षर हस्ताक्षर यहाँ पर 
+प्रोटोटाइप का हिस्सा है और यह पूरी बात जो हमने यहाँ पर लिखी है और यह है कि शरीर के साथ प्रोटोटाइप को फ़ंक्शन परिभा                    ाषा के रूप में जाना जाएगा, यहां विभिन्न प्रकार के हो सकते हैं।
+सार्वजनिक रूप से संरक्षित हो, ये तीनों कीवर्ड हैं, लेकिन अगर कीवर्ड में से कोई भी निर्दिष्ट नहीं ह                            है, तो अतिरिक्त डिफ़ॉल्ट या दोस्ताना है न तो डिफ़ॉल्ट या मैत्रीन पैकेज के भीतर
+या पैकेज के बाहर की कक्षाओं के लिए उपलब्ध है, निजी का मतलब है कि यह केवल उस कक्षा                         में उपलब्ध होगा जिसमें यह पैकेज के भीतर या उस वर्ग के लिए उपलब्ध पैकेज के बाहर 
+की कक्षाओं को नहीं परिभाषित करता है जिसमें इसे घोषित किया गया है और पैकेज के भीतर                        र या बाहर के भीतर तत्काल आपूर्ति और अंतिम रूप से अनुकूल की गलती आती है, इसलिए 
+यदि कोई एक्सेस स्पेसिफायर में से कोई भी निर्दिष्ट नहीं है, तो अक्ष डिफ़ॉल्ट अर्थ उस                        स वर्ग के लिए उपलब्ध है जिस पर इसे घोषित किया जाता है और सभी वर्ग केवल बाहर नहीं पैकेज के
+भीतर नहीं हैं पैकेज तो यह है कि ये एक्सेस स्पेसिफ़ायर हैं यदि मैं यह कह                           ह रहा हूं कि निजी केवल उस कक्षा में उपलब्ध है जिसमें इसे घोषित किया गया है और कक्षा में नहीं है त
+ो एक ऐसी स्थिति है यदि कोई आवश्यकता है जहां हम निजी चर चाहते हैं                         एक वर्ग में किसी अन्य वर्ग द्वारा पहुँचा जा सकता है ताकि उस परिदृश्य में हमारे पास कुछ ऐसा होता है जिसे 
+उत्तराधिकारी के रूप में जाना जाता है या एक विधि या म्यू                        टेटर या सेटर विधि मिलती है, इसलिए चलो जल्दी से इन चीजों को देखते हैं इसलिए हमारे पास कक्षाएं शुरू होती हैं। मेरे पास
+एक चर है यहाँ पर TX में कौन सी अतिरिक्त है                          और मेरे पास एक सार्वजनिक चर सार्वजनिक है और अब जब मेरे पास एक और वर्ग है तो यह इस वर्ग के बच्चे में वर्ग है अगर मेरे पास 
+एक फ़ंक्शन सार्वजनिक शून्य शो है अगर मै                           SOP 11 M लिखता हूं तो M का मान होगा मुद्रित लेकिन अगर मैं एसओपी और एक्स लिखता हूं तो यह मुद्रित नहीं होगा, लेकिन अगर मैं
+यहां एक्स का मूल्य प्राप्त करना चाहता                      ा हूं तो मैं एक फ़ंक्शन को सार्वजनिक सार्वजनिक सार्वजनिक सार्वजनिक डेटा प्रकार बनाता हूं। यहां मैं लिखता हूं कि सोप्लन एक्स फ़ंक्शन मिलता है 
+यह फ़ंक्शन पर नियंत्रण स्थानांतरित कर देगा यहां पर मैं फ़ंक्शन का उपयोग कर सकता हूं क्योंकि यह प्रकृति में सार्वजनिक है और यह एक निजी चर का मान लौटाता है x अब निजी चर एक्स मान का सामना किया 
+जा रहा है इसके द्वारा खिलाया जा सकता है विशेष रूप से कार्य क्योंकि यह वर्ग माता -पिता का हिस्सा है, लेकिन इसे बुलाया जा रहा है कि नाम से बच्चे के कार्य से किस फ़ंक्शन से विस्तार मिलता है, जो प्रकृति में 
+सार्वजनिक है इसलिए बाल फ़ंक्शन सार्वजनिक कार्य तक पहुंच सकता है, लेकिन यह एक निजी चर तक पहुंच नहीं सकता है इसलिए अप्रत्यक्ष रूप से अप्रत्यक्ष रूप से मुझे X का मान समान रूप से माना जाता है कि
+यह मूल कार्य में माना जाता है कि यह क्या है जो कंस्ट्रक्टर के रूप में जाना जाता है, हमने X का मान 20 के रूप में निर्धारित किया है, अब मैं चाइल्ड क्लास के माध्यम से x का मान बदलना चाहता हूं कि मैं कैसे 
+करता हूं कि मैं सिर्फ सार्वजनिक सफेद सेट लिखता हूं एक्स और मैं टीआरएस पैरामीटर में हो रहा है और यहां मैं कहता हूं कि एक्स एक्स के बराबर एक्स + यह समझने की कोशिश नहीं कर रहा है कि जब मैं पहली
+बार सोपेल कहता हूं और मूल्य को  हूं तो मैं एक फ़ंक्शन को सार्वजनिक सार्वजनिक सार्वजनिक सार्वजनिक डेटा प्रकार बनाता हूं। यहां मैं लिखता हूं कि सोप्लन एक्स फ़ंक्शन मिलता है यह फ़ंक्शन पर नियंत्रण स्थानांतरित
+कर देगा यहां पर मैं फ़ंक्शन का उपयोग कर सकता हूं क्योंकि यह प्रकृति में सार्वजनिक है और यह एक निजी चर का मान लौटाता है x अब निजी चर एक्स मान का सामना किया जा रहा है इसके द्वारा खिलाया जा 
+सकता है विशेष रूप से कार्य क्योंकि यह वर्ग माता -पिता का हिस्सा है, लेकिन इसे बुलाया जा रहा है कि नाम से बच्चे के कार्य से किस फ़ंक्शन से विस्तार मिलता है, जो प्रकृति में सार्वजनिक है इसलिए बाल फ़ंक्श
+न सार्वजनिक कार्य तक पहुंच सकता है, लेकिन यह एक निजी चर तक पहुंच नहीं सकता है इसलिए अप्रत्यक्ष रूप से अप्रत्यक्ष रूप से मुझे X का मान समान रूप से माना जाता है कि यह मूल कार्य में माना जाता है 
+कि यह क्या है जो कंस्ट्रक्टर के रूप में जाना जाता है, हमने X का मान 20 के रूप में निर्धारित किया है, अब मैं चाइल्ड क्लास के माध्यम से x का मान बदलना चाहता हूं कि मैं कैसे करता हूं कि मैं सिर्फ सार्वजनि
+क  हूं तो मैं एक फ़ंक्शन को सार्वजनिक सार्वजनिक सार्वजनिक सार्वजनिक डेटा प्रकार बनाता हूं। यहां मैं लिखता हूं कि सोप्लन एक्स फ़ंक्शन मिलता है यह फ़ंक्शन पर नियंत्रण स्थानांतरित कर देगा यहां पर मैं फ़ंक्शन का
+उपयोग कर सकता हूं क्योंकि यह प्रकृति में सार्वजनिक है और यह एक निजी चर का मान लौटाता है x अब निजी चर एक्स मान का सामना किया जा रहा है इसके द्वारा खिलाया जा सकता है विशेष रूप से कार्य क्योंकि
+यह वर्ग माता -पिता का हिस्सा है, लेकिन इसे बुलाया जा रहा है कि नाम से बच्चे के कार्य से किस फ़ंक्शन से विस्तार मिलता है, जो प्रकृति में सार्वजनिक है इसलिए बाल फ़ंक्शन सार्वजनिक कार्य तक पहुंच सकता 
+है, लेकिन यह एक निजी चर तक पहुंच नहीं सकता है इसलिए अप्रत्यक्ष रूप से अप्रत्यक्ष रूप से मुझे X का मान समान रूप से माना जाता है कि यह मूल कार्य में माना जाता है कि यह  हूं तो मैं एक फ़ंक्शन को सार्वजनिक
+सार्वजनिक सार्वजनिक सार्वजनिक डेटा प्रकार बनाता हूं। यहां मैं लिखता हूं कि सोप्लन एक्स फ़ंक्शन मिलता है यह फ़ंक्शन पर नियंत्रण स्थानांतरित कर देगा यहां पर मैं फ़ंक्शन का उपयोग कर सकता हूं क्योंकि यह प्रकृति में 
+सार्वजनिक है और यह एक निजी चर का मान लौटाता है x अब निजी चर एक्स मान का सामना किया जा रहा है इसके द्वारा खिलाया जा सकता है विशेष रूप से कार्य क्योंकि यह वर्ग माता -पिता का हिस्सा है, लेकिन इसे 
+बुलाया जा रहा है कि नाम से बच्चे के कार्य से किस फ़ंक्शन से विस्तार मिलता है, जो प्रकृति में सार्वजनिक है इसलिए बाल फ़ंक्शन सार्वजन हूं तो मैं एक फ़ंक्शन को सार्वजनिक सार्वजनिक सार्वजनिक सार्वजनिक डेटा प्रकार 
+बनाता हूं। यहां मैं लिखता हूं कि सोप्लन एक्स फ़ंक्शन मिलता है यह फ़ंक्शन पर नियंत्रण स्थानांतरित कर देगा यहां पर मैं फ़ंक्शन का उपयोग कर सकता हूं क्योंकि यह प्रकृति में सार्वजनिक है और यह एक निजी चर का मान
+लौटाता है x अब निजी चर एक्स मान का सामना किया जा रहा है इसके द्वारा खिलाया जा सकता है विशेष रू हूं तो मैं एक फ़ंक्शन को सार्वजनिक सार्वजनिक सार्वजनिक सार्वजनिक डेटा प्रकार बनाता हूं। यहां मैं लिखता हूं कि
+सोप्लन एक्स फ़ंक्शन मिलता है यह फ़ंक्शन पर नियंत्रण स्थानांतरित कर देगा यहां पर मैं फ़ंक् हूं तो मैं एक फ़ंक्शन को सार्वजनिक सार्वजनिक सार्वजनिक सार्वजनिक डेटा प्रकार बनाता हूं। यहां मैं लिखता हूं कि सोप्लन एक्स
+फ़ंक्शन मिलता है यह फ़ंक्शन पर नियंत्रण स्थानांतरित कर देगा यहां पर मैं फ़ंक्शन का उपयोग कर सकता हूं क्योंकि यह प्रकृति में सार्वजनिक है और यह एक निजी चर का मान लौटाता है x अब निजी चर एक्स मान का सामना
+किया जा रहा है इसके द्वारा खिलाया जा सकता है विशेष रू हूं तो मैं एक फ़ंक्शन को सार्वजनिक सार्वजनिक सार्वजनिक सार्वजनिक डेटा प्रकार बनाता हूं। यहां मैं लिखता हूं कि सोप्लन एक्स फ़ंक्शन मिलता है यह फ़ंक्शन पर 
+नियंत्रण स्थानांतरित कर देगा यहां पर मैं फ़ंक् हूं तो मैं एक फ़ंक्शन को सार्वजनिक सार्वजनिक सार्वजनिक सार्वजनिक डेटा प्रकार बनाता हूं। यहां मैं लिखता हूं कि सोप्लन एक्स फ़ंक्शन मिलता है यह फ़ंक्शन पर नियंत्रण स्थानांतरित 
+कर देगा यहां पर मैं फ़ंक् हूं तो मैं एक फ़ंक्शन को सार्वजनिक सार्वजनिक सार्वजनिक सार्वजनिक डेटा प्रकार बनाता हूं। यहां मैं लिखता हूं कि सोप्लन एक्स फ़ंक्शन मिलता है यह फ़ंक्शन पर नियंत्रण स्थानांतरित कर देगा यहां पर मैं 
+फ़ंक् हूं तो मैं एक फ़ंक्शन को सार्वजनिक सार्वजनिक सार्वजनिक सार्वजनिक डेटा प्रकार बनाता हूं। यहां मैं लिखता हूं कि सोप्लन एक्स फ़ंक्शन मिलता है यह फ़ंक्शन पर नियंत्रण स्थानांतरित कर देगा यहां पर मैं फ़ंक्शन का उपयोग 
+कर सकता हूं क्योंकि यह प्रकृति में सार्वजनिक है और यह एक निजी चर का मान लौटाता है x अब निजी चर एक्स मान का सामना किया जा रहा है इसके द्वारा खिलाया जा सकता है विशेष रूप से कार्य क्योंकि यह वर्ग माता -पिता
+का हिस्सा है, लेकिन इसे बुलाया जा रहा है कि नाम से बच्चे के कार्य से किस फ़ंक्शन से विस्तार मिलता है, जो प्रकृति में सार्वजनिक है इसलिए बाल फ़ंक्शन सार्वजनिक कार्य तक पहुंच सकता है, लेकिन यह एक निजी चर तक 
+पहुंच नहीं सकता है इसलिए अप्रत्यक्ष रूप से अप्रत्यक्ष रूप से मुझे X का मान समान रूप से माना जाता है कि यह मूल कार्य में माना जाता है कि यह क्या है जो कंस्ट्रक्टर के रूप में जाना जाता है, हमने X का मान 20 के 
+रूप में निर्धारित किया है, अब मैं चाइल्ड क्लास के माध्यम से x का मान बदलना चाहता हूं कि मैं कैसे करता हूं कि मैं सिर्फ सार्वजनिक सफेद सेट लिखता हूं एक्स और मैं टीआरएस पैरामीटर में हो रहा है और यहां मैं कहता
+हूं कि एक्स एक्स के बराबर एक्स + यह समझने की कोशिश नहीं कर रहा है कि जब मैं पहली बार सोपेल कहता हूं और मूल्य को मुद्रित करता हूं तो 20 वह होगा जो मैं फ़ंक्शन सेटिंग्स को कॉल कर रहा हूं।
